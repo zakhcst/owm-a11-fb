@@ -1,6 +1,6 @@
 {
   "name": "owm-a11-fb",
-  "version": "0.11.163",
+  "version": "0.11.164",
   "scripts": {
     "ng": "ng",
     "start": "./set-emu-env.sh && ng serve --host 0.0.0.0 --port 4211",
@@ -54,7 +54,7 @@
     "codelyzer": "^6.0.1",
     "firebase-tools": "^9.10.0",
     "fuzzy": "^0.1.3",
-    "inquirer": "^8.0.0",
+    "inquirer": "^7.3.3",
     "inquirer-autocomplete-prompt": "^1.3.0",
     "jasmine-core": "^3.7.1",
     "jasmine-marbles": "^0.8.1",
